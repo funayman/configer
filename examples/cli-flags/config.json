@@ -1,0 +1,5 @@
+{
+  "name": "loaded from JSON",
+  "ids": [1,3,5,7],
+  "log": { "file": "/tmp/example.log" }
+}
